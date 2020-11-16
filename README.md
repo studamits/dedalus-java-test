@@ -3,7 +3,7 @@
 [1]: https://twitter.com/flycouchdb
 [2]: https://twitter.com/haduart
 
-## Usage
+## Usage  
 
 Download [Wildfly](http://wildfly.org/downloads/).
 
