@@ -25,8 +25,7 @@ public class DecisionService {
     @GET
     public Response listPurchases(@Context final UriInfo ui,
                                   @DefaultValue("") @QueryParam("email") final String email) {
-        return Response.ok().
-                entity(queryUser(email))
+        return Response.ok("test")
                 .build();
     }
 
